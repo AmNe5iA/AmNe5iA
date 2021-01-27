@@ -1,10 +1,10 @@
 # AmNe5iA - Matt Smith
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmNe5iA&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmNe5iA&show_icons=true&theme=calm" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmNe5iA&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmNe5iA&theme=calm" />
 </a>
 
 ### Send BitCoins to: 1AmNe5iAYfYCGYFq7vpLWL4XRFxe21hh9D
